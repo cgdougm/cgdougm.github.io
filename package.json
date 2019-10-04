@@ -2,7 +2,7 @@
   "name": "cgdougm.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://cgdougm.github.io/index.html",
+  "homepage": "http://cgdougm.github.io/build/static/index.html",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
