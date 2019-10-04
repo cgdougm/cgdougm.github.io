@@ -2,7 +2,7 @@
   "name": "cgdougm.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://cgdougm.github.io/myapp",
+  "homepage": "http://cgdougm.github.io",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
@@ -16,7 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
